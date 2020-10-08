@@ -45,6 +45,12 @@ input[type=text], select {
     padding: 20px;
     text-align: center;
   }
+
   h1 {
       text-align: center;
+  }
+
+  #result {
+    text-align: center;
+    font-size: 30px;
   }
